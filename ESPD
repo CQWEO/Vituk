@@ -1,0 +1,26 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+local= "Charater"
+           partesp candle = "true"
+           partesp Vitamins = "true"
+           partesp a120 = "true"
+           partesp eyes = "true"
+           partesp a60 = "true,"
+           partesp a90 = "true"
+           partesp seek = "true"
+           partesp rush = "true"
+           partesp ambush = "true"
+           partesp halt = "true"
+           partesp lockpick = "true"
+           partesp flashlight = "true"
+           partesp lighter = "true"
+           partesp crucifix = "true"
+           partesp key = "true"
+  end
+     end
+     Local= "Charater"
+  Walkspeed "25"= "true"
+  Fullbright = "true"
+  Noclip = "true"
+  end
+     end)
+   
